@@ -1,1 +1,1 @@
-http:123.com
+http//:123.com
